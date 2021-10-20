@@ -1,8 +1,6 @@
-                                  0w0                UwU                ########          ########
-                                                   ########   Hi there  ########
-                                  ########         ########               VwV                >w<
-           
-
+                    __         __
+                    \ \       / /
+                    /_/   X   \_\
 
 ![azur-lane-kaga](https://user-images.githubusercontent.com/66526583/138110797-34b553f0-3032-49c5-a42f-da8b46b445cf.gif)
 
