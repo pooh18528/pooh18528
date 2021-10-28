@@ -3,7 +3,7 @@
                                                    0w0 | >w< | UwU | VwV | $w$ | 'w'
 
    <p align="center"> 
-   <img src="https://c.tenor.com/A7WS15hHQDEAAAAC/azur-lane-kaga.gif" width="700" height="500">
+   <img src="https://c.tenor.com/A7WS15hHQDEAAAAC/azur-lane-kaga.gif" width="800" height="500">
   
 <p>
  
