@@ -3,8 +3,9 @@
                                                    0w0 | >w< | UwU | VwV | $w$ | 'w'
 
    <p align="center"> 
-   <img src="https://user-images.githubusercontent.com/66526583/139219867-1c998ae7-0b76-4f06-a73e-a9e38c48666e.png">
-  <p>
+   <img src="https://user-images.githubusercontent.com/66526583/139219867-1c998ae7-0b76-4f06-a73e-a9e38c48666e.png" width="100" height="100">
+<p><i>HI</i></p>  
+<p>
  
 
 <!--
