@@ -1,7 +1,7 @@
           
-                                   <i>
-                                                   0w0 | >w< | UwU | VwV | $w$ | 'w'
-                                <i>
+                                   <p align="center">
+                                         0w0 | >w< | UwU | VwV | $w$ | 'w'
+                                <P>
    <p align="center"> 
    <img src="https://c.tenor.com/A7WS15hHQDEAAAAC/azur-lane-kaga.gif" width="800" height="500">
   
