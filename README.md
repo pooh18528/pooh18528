@@ -3,8 +3,8 @@
                                                    0w0 | >w< | UwU | VwV | $w$ | 'w'
 
    <p align="center"> 
-   <img src="https://user-images.githubusercontent.com/66526583/139219867-1c998ae7-0b76-4f06-a73e-a9e38c48666e.png" width="1000" height="1000">
-<p><i>HI</i></p>  
+   <img src="https://c.tenor.com/A7WS15hHQDEAAAAC/azur-lane-kaga.gif" width="1000" height="500">
+  
 <p>
  
 
