@@ -3,7 +3,7 @@
                                                    0w0 | >w< | UwU | VwV | $w$ | 'w'
 
    <p align="center"> 
-   ![azur-lane-kaga](https://user-images.githubusercontent.com/66526583/138110797-34b553f0-3032-49c5-a42f-da8b46b445cf.gif)
+   <img src="https://user-images.githubusercontent.com/66526583/139219867-1c998ae7-0b76-4f06-a73e-a9e38c48666e.png">
   <p>
  
 
