@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is nitit lerdrash</h1>
+<h1 align="center">Hi 👋, My name is Nitit lerdrash</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooh18528&label=Profile%20views&color=0e75b6&style=flat" alt="pooh18528" /> </p>
 <img src="https://i0.wp.com/images6.alphacoders.com/100/thumb-1920-1009083.jpg"/>
