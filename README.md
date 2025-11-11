@@ -6,7 +6,6 @@ Developer , cybersecurity
 
 * 🌍  I'm based in ไทย
 * 🖥️  See my portfolio at [nitit-lerdrash](http://nitit-lerdrash.netlify.app/)
-* ✉️  You can contact me at [ืnitit828@gmail.com](mailto:ืnitit828@gmail.com)
 * 🧠  I'm currently learning Bash , Ruby , Python , javascript ,
 
 <p align="left">
