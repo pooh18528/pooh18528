@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer , cybersecurity
 -------------------------
 
-* 🌍  I'm based in ไทย
+* 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [nitit-lerdrash](http://nitit-lerdrash.netlify.app/)
 * 🧠  I'm currently learning Bash , Ruby , Python , javascript , typescript
 
