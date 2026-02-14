@@ -110,6 +110,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="48"/>
 </a>
 
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/>
+</a>
+
 </p>
 
 
