@@ -30,7 +30,8 @@
 </p>
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=ffffff" width="48" title="Kali Linux"/>
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=ffffff" width="48" title="Fedora Linux"/>
+  <img src="https://img.icons8.com/color/96/fedora.png" width="48" title="Fedora Linux"/>
+
 </div>
 
 
