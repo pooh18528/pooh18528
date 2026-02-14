@@ -28,10 +28,13 @@
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,java,ruby,bash,html,tailwind,bootstrap,flask,laravel,mysql,firebase,docker,kubernetes,linux,ubuntu,vscode,vim,wordpress,tensorflow,pytorch" />
 
+<br>
+
 <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=ffffff" width="48" title="Kali Linux"/>
 <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=ffffff" width="48" title="Fedora Linux"/>
 
 </p>
+
 
 
 ---
