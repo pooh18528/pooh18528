@@ -23,7 +23,6 @@
 
 ---
 
-## 🛠️ Tech Stack
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
