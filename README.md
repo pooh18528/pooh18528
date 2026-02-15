@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Nitit Lerdrash</h1>
+<h1 align="center">Hi 👋 I'm Nitit Lerdrash/pooh18528</h1>
 <h3 align="center">Cybersecurity Student & Developer</h3>
 
 ---
