@@ -80,11 +80,11 @@ Registration & Login system for students.
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.github.com/pooh18528"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.linkedin.com/in/nitit-lerdrash-50a368397/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://stackoverflow.com/users/15505899/nitit-lerdrash"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooh18528&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pooh18528&layout=compact&theme=tokyonight" />
 </p>
+
 
 <div align="center">
 <br/>
