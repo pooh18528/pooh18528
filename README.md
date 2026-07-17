@@ -69,20 +69,19 @@
 
 **🧠 AI, Local LLMs & Tools**
 <p align="left">
-<!-- Ollama -->
+<!-- ไอคอนที่มีมาตรฐาน -->
 <a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama/white" width="40" height="40" alt="Ollama"/></a>
-
-<!-- เครื่องมือที่คุณขอเพิ่ม (เนื่องจากบางตัวยังไม่มีไอคอนมาตรฐาน ผมจึงใช้ชื่อกำกับเพื่อให้ไม่เกิดรูปเสียครับ) -->
-<a href="https://aider.chat/" target="_blank"><img src="https://simpleicons.org/icons/aider.svg" width="40" height="40" alt="Aider"/></a>
-<a href="https://github.com/opecode" target="_blank"><b>[Opecode]</b></a>
-<a href="https://github.com/antigravity" target="_blank"><b>[Antigravity]</b></a>
-<a href="https://github.com/goose" target="_blank"><b>[Goose]</b></a>
-
-<!-- เครื่องมือมาตรฐานที่มีไอคอน -->
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
 <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/></a>
+
+<!-- เครื่องมือที่ใช้เป็น Text เพื่อความสะอาดและป้องกันปัญหาไอคอนเสีย -->
+<br>
+<a href="https://aider.chat/" target="_blank">Aider</a> | 
+<a href="https://github.com/opecode" target="_blank">Opecode</a> | 
+<a href="https://github.com/antigravity" target="_blank">Antigravity</a> | 
+<a href="https://github.com/goose" target="_blank">Goose</a>
 </p>
 
 ---
