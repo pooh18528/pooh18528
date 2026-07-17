@@ -62,7 +62,6 @@
 <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
 
 <!-- เพิ่มไอคอนเหล่านี้เข้าไปครับ -->
-<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40"/></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
 <a href="https://termux.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>
