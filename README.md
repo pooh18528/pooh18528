@@ -64,7 +64,7 @@
 <!-- เพิ่มไอคอนเหล่านี้เข้าไปครับ -->
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
-<a href="https://termux.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>
+<a href="https://termux.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/termux/termux-original.svg" width="40"/></a>
 </p>
 
 **🧠 AI, Local LLMs & Tools**
