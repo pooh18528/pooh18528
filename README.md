@@ -75,13 +75,10 @@
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
 <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/></a>
-
-<!-- เครื่องมือที่ใช้เป็น Text เพื่อความสะอาดและป้องกันปัญหาไอคอนเสีย -->
-<br>
-<a href="https://aider.chat/" target="_blank">Aider</a> | 
-<a href="https://github.com/opecode" target="_blank">Opecode</a> | 
-<a href="https://github.com/antigravity" target="_blank">Antigravity</a> | 
-<a href="https://github.com/goose" target="_blank">Goose</a>
+<a href="https://aider.chat/" target="_blank"><img src="https://img.shields.io/badge/Aider-white?logo=openai&logoColor=black" height="30"/></a>
+<a href="https://github.com/opecode" target="_blank"><img src="https://img.shields.io/badge/Opecode-blue?logo=github&logoColor=white" height="30"/></a>
+<a href="https://github.com/antigravity" target="_blank"><img src="https://img.shields.io/badge/Antigravity-orange?logo=github&logoColor=white" height="30"/></a>
+<a href="https://github.com/goose" target="_blank"><img src="https://img.shields.io/badge/Goose-green?logo=github&logoColor=white" height="30"/></a>
 </p>
 
 ---
