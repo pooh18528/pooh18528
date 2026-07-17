@@ -26,47 +26,43 @@
 - Web Security & Networking  
 
 ---
-
 ## 🛠️ Tech Stack 
 
-**👨‍💻 Programming & Scripting Languages**
+**👨‍💻 Programming & Scripting**
 <p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a>
-<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a>
-<a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/></a>
+<!-- ถ้ายังใช้ PHP หรือ Java อยู่ สามารถเอาไอคอนมาเติมต่อตรงนี้ได้เลยครับ -->
 </p>
 
-**🌐 Web, Database & Cloud**
+**🌐 Web, Database & Cloud (Next.js Focus)**
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a>
-<a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/></a>
+<a href="https://www.netlify.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></a>
-<a href="https://wordpress.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40"/></a>
 </p>
+
 **🐧 OS, Cybersecurity & DevOps**
 <p align="left">
-<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40"/></a>
-<a href="https://www.freebsd.org/" target="_blank"><img src="https://cdn.simpleicons.org/freebsd/CB333B" width="40"/></a>
 <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40"/></a>
-<a href="https://getfedora.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40"/></a>
+<a href="https://podman.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
+<a href="https://termux.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
 </p>
 
-**🧠 AI & Tools**
+**🧠 AI, Local LLMs & Tools**
 <p align="left">
+<a href="https://ollama.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ai" width="40"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
