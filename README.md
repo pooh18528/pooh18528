@@ -82,7 +82,7 @@
 <a href="https://github.com/antigravity" target="_blank"><img src="https://img.shields.io/badge/Antigravity-orange?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 <a href="https://github.com/goose" target="_blank"><img src="https://img.shields.io/badge/Goose-green?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 </p>
----
+
 
 ## 🚀 Featured Projects
 🔐 **AI Intrusion Detection System**  
