@@ -71,18 +71,18 @@ Registration & Login system for students.
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pooh18528&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="pooh18528's GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooh18528&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pooh18528&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooh18528&layout=compact&theme=tokyonight&hide_border=true" alt="pooh18528's Top Languages" />
-</p>
+
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooh18528&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pooh18528&layout=compact&theme=tokyonight" />
+<p align="left">
+<a href="https://www.github.com/pooh18528"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/nitit-lerdrash-50a368397/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://stackoverflow.com/users/15505899/nitit-lerdrash"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </p>
 
 
