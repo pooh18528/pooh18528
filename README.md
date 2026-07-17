@@ -62,7 +62,7 @@
 
 **🧠 AI, Local LLMs & Tools**
 <p align="left">
-<a href="https://ollama.com/" target="_blank"><img src="[https://skillicons.dev/icons?i=ai](https://cdn.simpleicons.org/ollama/000000)" width="40"/></a>
+<a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama/ffffff" width="40"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
