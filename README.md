@@ -75,12 +75,13 @@
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
 <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/></a>
+  
+<!-- ชุดปุ่ม Shields.io แบบ For-The-Badge -->
 <a href="https://aider.chat/" target="_blank"><img src="https://img.shields.io/badge/Aider-white?style=for-the-badge&logo=openai&logoColor=black" height="40"/></a>
 <a href="https://github.com/opecode" target="_blank"><img src="https://img.shields.io/badge/Opecode-blue?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 <a href="https://github.com/antigravity" target="_blank"><img src="https://img.shields.io/badge/Antigravity-orange?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 <a href="https://github.com/goose" target="_blank"><img src="https://img.shields.io/badge/Goose-green?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
