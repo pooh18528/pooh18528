@@ -69,7 +69,8 @@
 
 **🧠 AI, Local LLMs & Tools**
 <p align="left">
-<a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama/ffffff" width="40"/></a>
+<a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama/white" width="40" height="40" alt="Ollama"/></a>
+<a href="https://github.com/paul-gauthier/aider" target="_blank"><img src="https://cdn.simpleicons.org/code/white" width="40" height="40" alt="Aider"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
