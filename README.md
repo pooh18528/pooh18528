@@ -76,6 +76,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>
   <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/></a>
   <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="40" height="40" alt="Opencode"/></a>
+   <a href="https://freebuff.com/blog" target="_blank"><img src="https://cdn.phototourl.com/free/2026-07-18-f6a75df0-9441-483b-8059-8bc08a8bd5b9.png" width="40" height="40" alt="freebuff"/></a>
 </p>
 
 
