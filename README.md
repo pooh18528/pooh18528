@@ -79,7 +79,7 @@
 <!-- ชุดปุ่ม Shields.io แบบ For-The-Badge เพิ่ม LM Studio เข้าไป -->
 <a href="https://aider.chat/" target="_blank"><img src="https://img.shields.io/badge/Aider-white?style=for-the-badge&logo=openai&logoColor=black" height="40"/></a>
 <a href="https://lmstudio.ai/" target="_blank"><img src="https://img.shields.io/badge/LM_Studio-black?style=for-the-badge&logo=ai&logoColor=white" height="40"/></a>
-<a href="https://github.com/opecode" target="_blank"><img src="https://img.shields.io/badge/Opecode-blue?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+<a href="https://opencode.ai/" target="_blank"><img src="https://img.shields.io/badge/Opecode-blue?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 <a href="https://antigravity.google/?app=antigravity-ide" target="_blank"><img src="https://img.shields.io/badge/Antigravity-orange?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
 </p>
 
