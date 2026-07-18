@@ -69,17 +69,18 @@
 
 **🧠 AI, Local LLMs & Tools**
 <p align="left">
-  <!-- ไอคอนหลัก -->
+  <!-- กลุ่มไอคอนเดิมของคุณ -->
   <a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama/white" width="40" height="40" alt="Ollama"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
   <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/></a>
-  <!-- ปุ่ม Shields.io แบบ For-The-Badge -->
-  <a href="https://aider.chat/" target="_blank"><img src="https://img.shields.io/badge/Aider-white?style=for-the-badge&logo=openai&logoColor=black" height="40"/></a>
-  <a href="https://lmstudio.ai/" target="_blank"><img src="https://img.shields.io/badge/LM_Studio-black?style=for-the-badge&logo=ai&logoColor=white" height="40"/></a>
-  <a href="https://opencode.ai/" target="_blank"><img src="https://img.shields.io/badge/Opecode-blue?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
-  <a href="https://antigravity.google/?app=antigravity-ide" target="_blank"><img src="https://img.shields.io/badge/Antigravity-orange?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+
+  <!-- กลุ่มที่แก้ไข: ตัดป้ายสี่เหลี่ยมออก เหลือแค่ตัว Icon เดี่ยว ๆ ขนาดเท่ากัน -->
+  <a href="https://aider.chat/" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=openai&logoColor=white&color=black" height="40"/></a>
+  <a href="https://lmstudio.ai/" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=huggingface&logoColor=white&color=black" height="40"/></a>
+  <a href="https://opencode.ai/" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=github&logoColor=white&color=black" height="40"/></a>
+  <a href="https://antigravity.google/?app=antigravity-ide" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=google&logoColor=white&color=black" height="40"/></a>
 </p>
 
 
