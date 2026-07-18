@@ -75,12 +75,10 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>
   <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/></a>
-
-  <!-- กลุ่มใหม่: ดึงภาพโลโก้ตรง ๆ ไม่มีกรอบสี่เหลี่ยม ไม่ติดพื้นหลังดำ เรียงเป็นแถวเดียวกัน -->
-  <a href="https://aider.chat/" target="_blank"><img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" alt="Aider"/></a>
-  <a href="https://lmstudio.ai/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/%23FFF" width="40" height="40" alt="LM Studio"/></a>
-  <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="Opencode"/></a>
-  <a href="https://antigravity.google/?app=antigravity-ide" target="_blank"><img src="https://cdn.simpleicons.org/google/white" width="40" height="40" alt="Antigravity"/></a>
+  <a href="https://aider.chat/" target="_blank"><img src="https://cdn.simpleicons.org/openai/white" height="40" alt="Aider"/></a>
+  <a href="https://lmstudio.ai/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/white" height="40" alt="LM Studio"/></a>
+  <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.simpleicons.org/github/white" height="40" alt="Opencode"/></a>
+  <a href="https://antigravity.google/?app=antigravity-ide" target="_blank"><img src="https://cdn.simpleicons.org/google/white" height="40" alt="Antigravity"/></a>
 </p>
 
 
