@@ -69,18 +69,18 @@
 
 **🧠 AI, Local LLMs & Tools**
 <p align="left">
-  <!-- กลุ่มไอคอนเดิมของคุณ -->
+  <!-- กลุ่มแรกเดิมของคุณ -->
   <a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama/white" width="40" height="40" alt="Ollama"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
-  <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>
+  <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/></a>
 
-  <!-- กลุ่มที่แก้ไข: ตัดป้ายสี่เหลี่ยมออก เหลือแค่ตัว Icon เดี่ยว ๆ ขนาดเท่ากัน -->
-  <a href="https://aider.chat/" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=openai&logoColor=white&color=black" height="40"/></a>
-  <a href="https://lmstudio.ai/" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=huggingface&logoColor=white&color=black" height="40"/></a>
-  <a href="https://opencode.ai/" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=github&logoColor=white&color=black" height="40"/></a>
-  <a href="https://antigravity.google/?app=antigravity-ide" target="_blank"><img src="https://img.shields.io/badge/-%20?logo=google&logoColor=white&color=black" height="40"/></a>
+  <!-- กลุ่มใหม่: ดึงภาพโลโก้ตรง ๆ ไม่มีกรอบสี่เหลี่ยม ไม่ติดพื้นหลังดำ เรียงเป็นแถวเดียวกัน -->
+  <a href="https://aider.chat/" target="_blank"><img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" alt="Aider"/></a>
+  <a href="https://lmstudio.ai/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/%23FFF" width="40" height="40" alt="LM Studio"/></a>
+  <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="Opencode"/></a>
+  <a href="https://antigravity.google/?app=antigravity-ide" target="_blank"><img src="https://cdn.simpleicons.org/google/white" width="40" height="40" alt="Antigravity"/></a>
 </p>
 
 
