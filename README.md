@@ -22,7 +22,6 @@
 - Bash Scripting  
 - Python & Automation  
 - JavaScript / TypeScript  
-- Ruby  
 - Web Security & Networking  
 
 ---
