@@ -1,53 +1,45 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%94%8C%E2%94%80%E2%94%80%5Bpooh18528%40kali%5D%E2%94%80%5B~%5D;%E2%94%94%E2%94%80%E2%94%80%E2%95%BC+%24+cat+about_me.txt" alt="Terminal Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%E2%94%8C%E2%94%80%E2%94%80%5Bpooh18528%40kali%5D%E2%94%80%5B~%5D;%E2%94%94%E2%94%80%E2%94%80%E2%95%BC+%24+cat+about_me.txt" alt="Terminal Typing SVG" /></a>
 
 <br/>
 
 <!-- Subtitle Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=0AEFFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Cybersecurity+Student+%26+Developer;AI+Security+%7C+Cloud+Security+%7C+Blue+Team;Open+Source+Contributor+%26+Enthusiast;Home+Lab+Builder+%7C+Linux+%7C+Networking" alt="Subtitle Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0AEFFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Cybersecurity+Student+%26+Developer;AI+Security+%7C+Cloud+Security+%7C+Blue+Team;Open+Source+Contributor+%26+Enthusiast;Home+Lab+Builder+%7C+Linux+%7C+Networking" alt="Subtitle Typing SVG" /></a>
 
 </div>
 
 <br/>
 
-<!-- Terminal-Style About Me -->
-```bash
+## 🧑‍💻 About Me
+
+```yaml
 ┌──[pooh18528@kali]─[~/about]
 └──╼ $ whoami
-```
-```yaml
-Name:       Nitit Lerdrash
-Handle:     pooh18528
-Role:       Cybersecurity & Developer Student
-University: Suan Dusit University
+
+Name:       Nitit Lerdrash (pooh18528)
+Role:       Cybersecurity & Developer Student @ Suan Dusit University
 Location:   Thailand 🇹🇭
-Interests:  [AI Security, Cloud Security, Blue Team]
-Status:     Open Source Contributor & Enthusiast
+Focus:      [ AI Security, Cloud Security, Blue Team, Home Lab ]
+Status:     Open Source Contributor & Enthusiast 🌟
 Portfolio:  https://nitit-lerdrash.netlify.app/
 ```
 
-<!-- Terminal-Style Currently Learning -->
-```bash
-┌──[pooh18528@kali]─[~/learning]
-└──╼ $ cat current_stack.log
-```
-```
-[▓▓▓▓▓▓▓▓░░]  80%  Bash Scripting
-[▓▓▓▓▓▓░░░░]  60%  Python & Automation
-[▓▓▓▓▓░░░░░]  50%  JavaScript / TypeScript
-[▓▓▓▓▓▓▓░░░]  70%  Web Security & Networking
-```
+<br/>
+
+## 🚀 Currently Learning
+
+<p align="left">
+  <img src="https://geps.dev/progress/80?dangerColor=00FF41&warningColor=00FF41&color=00FF41" height="20" alt="80%"/> <b>Bash Scripting & Automation</b><br/>
+  <img src="https://geps.dev/progress/70?dangerColor=0AEFFF&warningColor=0AEFFF&color=0AEFFF" height="20" alt="70%"/> <b>Python & Security Tooling</b><br/>
+  <img src="https://geps.dev/progress/65?dangerColor=0AEFFF&warningColor=0AEFFF&color=0AEFFF" height="20" alt="65%"/> <b>Web Security & Networking</b><br/>
+  <img src="https://geps.dev/progress/55?dangerColor=FF0055&warningColor=FF0055&color=FF0055" height="20" alt="55%"/> <b>JavaScript / TypeScript (Next.js)</b>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-
-```bash
-┌──[pooh18528@kali]─[~/tools]
-└──╼ $ ls -la ./skills/
-```
 
 ### 👨‍💻 Programming & Scripting
 
@@ -97,16 +89,12 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
   <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/></a>&nbsp;&nbsp;
   <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="40" height="40" alt="Opencode"/></a>&nbsp;&nbsp;
   <a href="https://freebuff.com/blog" target="_blank"><img src="https://cdn.phototourl.com/free/2026-07-18-f6a75df0-9441-483b-8059-8bc08a8bd5b9.png" width="40" height="40" alt="freebuff"/></a>
+  <a href="https://antigravity.google/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40" height="40" alt="antigravity"/></a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-
-```bash
-┌──[pooh18528@kali]─[~/projects]
-└──╼ $ ls -la
-```
 
 <table>
 <tr>
@@ -136,11 +124,6 @@ Registration & Login system for students.
 ---
 
 ## 🌟 Open Source Contributions
-
-```bash
-┌──[pooh18528@kali]─[~/opensource]
-└──╼ $ cat contributions.yml
-```
 
 > 🚧 Actively exploring and contributing to open source security projects!
 
@@ -303,11 +286,6 @@ Registration & Login system for students.
 
 ## 📊 GitHub Stats
 
-```bash
-┌──[pooh18528@kali]─[~/stats]
-└──╼ $ neofetch --github
-```
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooh18528&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>
@@ -320,11 +298,6 @@ Registration & Login system for students.
 
 ## 🌐 Connect With Me
 
-```bash
-┌──[pooh18528@kali]─[~/social]
-└──╼ $ cat contacts.txt
-```
-
 <p align="left">
   <a href="https://www.github.com/pooh18528"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nitit-lerdrash-50a368397/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>&nbsp;&nbsp;
@@ -336,14 +309,5 @@ Registration & Login system for students.
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=pooh18528&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-<br/><br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pooh18528/pooh18528/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pooh18528/pooh18528/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pooh18528/pooh18528/output/github-snake-dark.svg" />
-</picture>
 
 </div>
