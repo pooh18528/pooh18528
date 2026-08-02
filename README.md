@@ -66,7 +66,7 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
 ### 🐧 OS, Cybersecurity & DevOps
 
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>&nbsp;&nbsp;
+  <a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu"/></a>&nbsp;&nbsp;
   <a href="https://archlinux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux"/></a>&nbsp;&nbsp;
   <a href="https://www.freebsd.org/" target="_blank"><img src="https://cdn.simpleicons.org/freebsd/CB333B" width="40" height="40" alt="FreeBSD"/></a>&nbsp;&nbsp;
@@ -74,6 +74,7 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
   <a href="https://getfedora.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40" alt="Fedora"/></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>&nbsp;&nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/></a>&nbsp;&nbsp;
+  <a href="https://podman.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/podman.svg" width="40" height="40" alt="podman"/></a>&nbsp;&nbsp;
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>&nbsp;&nbsp;
   <a href="https://termux.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" width="40" height="40" alt="Termux"/></a>
