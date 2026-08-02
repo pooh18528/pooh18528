@@ -15,7 +15,8 @@
 - 🌏 Based in Thailand
 - 🧪 Home Lab Builder | Linux | Networking
 - 🚀 Interested in AI Security, Cloud Security & Blue Team
-- 🌐 Portfolio: [nitit-lerdrash.netlify.app](http://nitit-lerdrash.netlify.app/)
+- 🌟 Open Source Contributor & Enthusiast   ← เพิ่มตรงนี้
+- 🌐 Portfolio: nitit-lerdrash.netlify.app
 
 ---
 
