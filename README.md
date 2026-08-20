@@ -20,7 +20,6 @@
 
 Name:       Nitit Lerdrash (pooh18528)
 Role:       Cybersecurity & Developer Student @ Suan Dusit University
-Location:   Thailand 🇹🇭
 Focus:      [ AI Security, Cloud Security, Blue Team, Home Lab ]
 Status:     Open Source Contributor & Enthusiast 🌟
 Portfolio:  https://nitit-lerdrash.netlify.app/
