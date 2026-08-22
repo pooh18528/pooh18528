@@ -94,34 +94,6 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 AI Intrusion Detection System
-Machine learning system for detecting abnormal network behavior.
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ Membership System (PHP + MySQL)
-Registration & Login system for students.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🧪 Home Cybersecurity Lab
-`Kali Linux` · `Wireshark` · `Network Monitoring` · `Attack Simulation`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🌟 Open Source Contributions
 
