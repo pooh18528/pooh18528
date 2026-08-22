@@ -284,18 +284,6 @@ Registration & Login system for students.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooh18528&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pooh18528&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooh18528&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
