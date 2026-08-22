@@ -42,13 +42,13 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pooh18528&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=0AEFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>&nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooh18528&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=0AEFFF&langs_count=8" alt="Top Languages"/>&nbsp;&nbsp;
+<img height="160em" src="https://github-stats-extended.vercel.app/api?username=pooh18528&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=0AEFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>&nbsp;&nbsp;
+<img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pooh18528&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=0AEFFF&langs_count=8" alt="Top Languages"/>&nbsp;&nbsp;
 <img height="160em" src="https://streak-stats.demolab.com?user=pooh18528&hide_border=true&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=FF0055&currStreakNum=FFFFFF&currStreakLabel=00FF41&sideNums=0AEFFF&sideLabels=0AEFFF&dates=8B949E" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pooh18528&theme=matrix&no-frame=true&row=1&column=7&margin-w=10&margin-h=12" alt="GitHub Trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=pooh18528&theme=matrix&no-frame=true&row=1&column=7&margin-w=10&margin-h=12" alt="GitHub Trophies"/> -->
 
 <br/>
 
