@@ -110,7 +110,6 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
 
 ---
 
-
 ## 🌟 Open Source Contributions
 
 > 🚧 Actively exploring and contributing to open source security projects!
@@ -226,7 +225,7 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
 <td align="center" width="110">
 <a href="https://github.com/aquasecurity/cloudsploit">
 <img src="https://avatars.githubusercontent.com/u/38684560?s=200&v=4" width="48" height="48" alt="CloudSploit"/>
-<br/><b>CloudSploit</b>
+<br/><b>Cloud Posture</b>
 </a>
 <br/><sub>Cloud Posture</sub>
 </td>
@@ -294,6 +293,6 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pooh18528&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/Profile_views-1114-00FF41?style=flat&logo=github&labelColor=0D1117&color=00FF41" alt="Profile views" />
 
 </div>
