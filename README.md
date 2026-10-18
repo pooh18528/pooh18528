@@ -104,7 +104,7 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>&nbsp;&nbsp;
   <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/></a>&nbsp;&nbsp;
   <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="40" height="40" alt="Opencode"/></a>&nbsp;&nbsp;
-  <a href="https://freebuff.com/blog" target="_blank"><img src="https://img.pixelvault.dev/playground/tmp_i043yu91jxym.png" width="40" height="40" alt="freebuff"/></a>
+  <a href="https://freebuff.com/blog" target="_blank"><img src="https://freebuff.com/logo.svg" width="40" height="40" alt="freebuff"/></a>
   <a href="https://antigravity.google/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40" height="40" alt="antigravity"/></a>
 </p>
 
