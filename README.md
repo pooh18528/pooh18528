@@ -97,14 +97,18 @@ Portfolio:  https://nitit-lerdrash.netlify.app/
   <a href="https://termux.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" width="40" height="40" alt="Termux"/></a>
 </p>
 
-### 🧠 AI, Local LLMs & Tools
+### 🧠 AI, Local LLMs & Machine Learning
 
 <p align="left">
   <a href="https://ollama.com/" target="_blank"><img src="https://cdn.simpleicons.org/ollama/white" width="40" height="40" alt="Ollama"/></a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></a>&nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>&nbsp;&nbsp;
+</p>
+
+### 🧰 Developer Tools & Editors
+
+<p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>&nbsp;&nbsp;
   <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/></a>&nbsp;&nbsp;
+  <a href="https://www.nano-editor.org/download.php" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Gnu-nano.svg" width="40" height="40" alt="GNU nano"/></a>&nbsp;&nbsp;
   <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="40" height="40" alt="Opencode"/></a>&nbsp;&nbsp;
   <a href="https://freebuff.com/blog" target="_blank"><img src="https://freebuff.com/logo.svg" width="40" height="40" alt="freebuff"/></a>
   <a href="https://antigravity.google/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" width="40" height="40" alt="antigravity"/></a>
